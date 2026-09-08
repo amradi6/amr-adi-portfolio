@@ -31,5 +31,5 @@ To use `amradi.me`, add the domain under the Vercel project’s **Domains** sett
 ## Content to personalize
 
 - Replace the GitHub and LinkedIn placeholder links in the footer with the real profile URLs.
-- A CV PDF was not available as a staged attachment, so no misleading download link was added. To add one, place the file at `assets/amr-adi-cv.pdf` and add a download CTA in `index.html`.
+- The CV is available from the hero section at `assets/amr-adi-cv.pdf`.
 - Update the copyright year if the site is launched after 2025.
